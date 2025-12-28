@@ -33,7 +33,7 @@ This project focuses on analyzing a retail dataset to extract meaningful busines
 - **Monthly Revenue vs. Return Rate**: A Clustered Column & Line Chart showing the correlation between sales volume and returns over time.
 - **Geographical Breakdown**: A 100% Stacked Bar Chart showcasing the Sales vs. Returns ratio for the Top 10 countries.
 - **DAX Measures**: Created custom measures for `Sales_Amount`, `Total_Transactions`, and `Return_Rate`.
-- ! [Sales Trend](Screenshots\Στιγμιότυπο οθόνης 2025-12-28 125038.png)
+
   
 
 ## Key Insights
@@ -47,4 +47,3 @@ This project focuses on analyzing a retail dataset to extract meaningful busines
 
 *Created as part of the AI Business Project.*
 
-![Sales Trend]
